@@ -1,0 +1,5 @@
+nltk
+punkt
+selenium
+chatterbot
+chatterbot_corpus
